@@ -73,7 +73,7 @@ class App extends Component {
       </div> 
 
       <footer>
-      <p> Made By : <a class="link" href="https://portfolioo-1.netlify.app" target="_blank">Abdelaziz oubella ♡</a></p>
+      <p> Made By : <a class="link" href="https://my-portfolioo-delta.vercel.app/" target="_blank">Abdelaziz oubella ♡</a></p>
       </footer>
     </div>
   );
